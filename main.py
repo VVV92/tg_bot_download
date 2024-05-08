@@ -6,7 +6,7 @@ import os
 import asyncio
 
 # Замените на API токен вашего бота
-BOT_TOKEN = '7164087939:AAH7ipdQu7YC-wXHe2kN7-gQVZCwGvuwRBk'
+BOT_TOKEN = ''
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
